@@ -1,0 +1,13 @@
+switch_cpus.ipc_total
+dcache.tags.tag_accesses
+dcache.tags.data_accesses
+dcache.tags.Synonym_references
+dcache.tags.occ_percent::total
+dcache.overall_miss_rate::total
+dcache.overall_avg_miss_latency::total
+icache.tags.tag_accesses
+icache.tags.data_accesses
+icache.tags.Synonym_references
+icache.tags.occ_percent::total
+icache.overall_miss_rate::total
+icache.overall_avg_miss_latency::total
